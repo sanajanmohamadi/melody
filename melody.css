@@ -1,0 +1,715 @@
+
+body{
+    background-color: rgb(6, 12, 30);
+    color: white;
+}
+
+.page {
+    width: 1402px ;
+}
+
+.sid_bar{
+    width: 212px ;
+    height: 800px;
+    background-color: rgb(4, 10, 22);
+    padding: 25px 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: -5px;
+
+
+}
+
+
+.main_cantent{
+    width: 1000px ;
+    height: 800px;
+    background: linear-gradient(to top, #141a26, #1a071a);
+    padding: 25px 40px;
+    display: inline-block;
+    vertical-align: top;
+    background:rgb;
+}
+
+.music_player{
+    width: 1290px;
+    height: 80px;
+    padding: 20px 20px;
+    background-color: rgb(6, 12, 24);
+    border: 1px solid rgb(20, 26, 38);
+
+}
+.logo_section{
+    margin-bottom: 35px;
+}
+.logo{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    font-size: 25px;
+    font-weight: bold;
+}
+.menu_section{
+    margin-bottom: 35px;
+    margin-left: 10px;
+}
+.menu_item{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 0 20px 0;
+    font-size: 20px;
+}
+.playlist_header{
+    margin-bottom: 20px;
+
+}
+
+.playlist_title{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 180px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    color: rgb(161, 131, 217);
+    font-size: 16px;
+    font-weight: bold;
+}
+.playlist_add{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 20px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    
+
+}
+
+.playlist{
+    padding: 8px;
+    margin-bottom: 8px;
+
+}
+
+.playlist1{
+    padding: 8px;
+    margin-bottom: 8px;
+    background: rgb(161, 131, 217);
+}
+.img1{
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    margin-right: 13px;
+    float: left;
+    object-fit: cover;
+
+}
+.name{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.count{
+    margin: 0;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.not{
+    margin-bottom: 35px;
+}
+.peremium_box{
+    background: linear-gradient(to top, #221533, #301758);
+    padding: 25px 10px;
+    margin-top:38px;
+    border-radius: 14px;
+}
+
+.primum_title{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 0 15px 0;
+    font-size: 16px;
+    font-weight: bold;
+}
+.premium_text{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    font-size: 14px;
+
+}
+
+.premium_button{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 8px 20px;
+    margin-top:16px ;
+    border: none;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    color: black;
+    margin-left: 10px;
+}
+
+.profil_box{
+    padding: 0;
+    margin-top: 5px;
+
+}
+
+.profile_img{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 30px;
+    height: 30px;
+    margin-right: 13px;
+    border-radius: 50px;
+    object-fit: cover;
+    display: inline-block;
+    vertical-align: middle;
+}
+.profile_name{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+.profile_img_setting{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.arow_lr{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 35px;
+    width: 35px;
+    border-radius: 50px;
+    margin-left: 9px;
+    border-left-color: rgb(118, 114, 131);
+    border-top-color: rgb(118, 114, 131);
+    border-bottom-color: rgb(118, 114, 131);
+    border-right-color: rgb(118, 114, 131);
+    color: white;
+    background-color: rgb(39, 34, 56);
+    border: 1px , solid, rgb(49, 45, 62);
+    display: inline-block;
+}
+
+
+.input{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 250px;
+    height: 30px;
+    border-radius: 50px;
+    border: 1px , solid, rgb(49, 45, 62);
+    display: inline-block;
+    margin: 0 0 20px 490px;
+    background-color: rgb(39, 34, 56);
+}
+
+
+.div_main_cantent_top{
+    display: inline-block;
+}
+
+
+.img_top{
+    width: 40px;
+    height: 40px;
+    margin-right: 13px;
+    border-radius: 50px;
+    object-fit: cover;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 10px 8px 15px;
+}
+
+.arow{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+
+.p1{
+    display: inline-block;
+}
+
+
+.png{
+    width: 280px;
+    height: 280px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+.txt{
+    display: inline-block;
+
+}
+
+
+
+.main_cantent_between{
+    margin-top: 20px;
+}
+.img{
+    width: 260px;
+    height: 260px;
+    margin-right: 30px;
+    vertical-align: top;
+    object-fit: cover;
+    display: inline-block;
+    border-radius: 20px;
+}
+.txt{
+    width: 650px;
+    display: inline-block;
+    vertical-align: top;
+}
+.album_txt{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    margin: 0 0px 0px 30px;
+    color: rgb(120, 61, 237);
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+.dream_txt{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    font-weight: bold;
+    font-size: 60px;
+    margin-left: 30px;
+}
+.txt2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: dreamscape;
+    display: inline-block;
+    margin: 0 10px 0px 0;
+    font-size: 20px;
+    margin-left: 30px;
+    color: rgb(143, 144, 162);
+}
+.txt1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 0 30px 30px;
+    font-size: 16px;
+    color: rgb(143, 144, 162);
+}
+.play_button{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(120, 61, 237);
+    height: 45px;
+    width: 100px;
+    margin-left: 30px;
+    border-radius: 25px;
+    color: white;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    display: inline-block;
+}
+
+
+.playlis1{
+    background-color: rgb(4, 10, 22);
+}
+
+.txt3{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    color: rgb(120, 61, 237);
+}
+
+.hort{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 42px;
+    width: 42px;
+    border-radius: 50px;
+    border: 1px , solid, #1e202f;
+    background-color: rgb(26, 13, 33);
+    margin-left: 13px;
+    color: white;
+}
+
+
+
+.melody_list{
+    background: #191f2c;
+    height: 400px;
+    width: 1000px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    border-radius: 14px;
+}
+
+
+.l{
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px;
+    border-style: solid;
+    color: white;
+
+}
+
+
+.page {
+    width: 1402px ;
+}
+
+
+
+.menu_section{
+    margin-bottom: 35px;
+    margin-left: 10px;
+}
+
+
+
+.hort{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 42px;
+    width: 42px;
+    border-radius: 50px;
+    border: 1px , solid, #1e202f;
+    background-color: rgb(26, 13, 33);
+    margin-left: 13px;
+    color: white;
+}
+
+.music_selection_icon{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 15px;
+    font-size: 23px;
+}
+
+.music_selection_text{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 15px;
+    font-size: 17px;
+
+
+}
+
+
+.arrow_music{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 90px;
+    margin-top: 5px;
+}
+
+.music_selection_arrow{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 190px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+
+.music_selection_puase_1{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 30px;
+    font-size: 30px;
+
+}
+
+.music_selection_stop{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 30px;
+    font-size: 40px;
+}
+
+.music_selection_puase_2{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 30px;
+    font-size: 30px;
+}
+
+.music_selection_arrow_tow{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+
+.line{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px;
+    border-style: solid;
+    color: white;
+    margin-left: 450px;
+    margin-right: 330px;
+}
+.line2{
+    font-family: Arial, Helvetica, sans-serif;
+    border: 3px;
+    border-style: solid;
+    color: rgb(112, 31, 198);
+    margin-left: 450px;
+    margin-right: 430px;
+    margin-top: 0;
+}
+
+
+
+.music_player_1{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+    vertical-align: middle;
+}
+
+.three_line{
+    font-family: Arial, Helvetica, sans-serif;
+     display: inline-block;
+    vertical-align: middle;
+    margin-left: 140px;
+    font-size: 30px;
+}
+
+.microphone{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 50px;
+    font-size: 30px;
+}
+
+.slider{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 40px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.music_player_1{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+    vertical-align: top;
+}
+
+
+.profile_music{
+    width: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    margin-right: 5px;
+    float: left;
+    object-fit: cover;
+}
+
+
+.name_music{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 15px 10px 20px 0;
+
+}
+.count_music{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin: 0 10px 26px 0;
+    color: gray;
+
+}
+
+.cader{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 940px;
+    height: 395px;
+    background: none;
+    border: 1px solid rgb(24, 31, 55);
+    padding: 25px 40px;
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: top;
+    background:rgb;
+
+} 
+
+
+.line3{
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px;
+    border-style:  solid;
+    color: rgb(24, 31, 55);
+}
+
+
+.line_div{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    padding: 0px 0px 0px 0px;
+    vertical-align: top;
+    
+}
+.line_txt{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    margin-left: 160px;
+}
+
+
+.div_meu{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 940px;
+    background: none;
+    border: 1px solid rgb(24, 31, 55);
+    padding: 1px 40px;
+    display: inline-block;
+    vertical-align: top;
+    background:rgb;
+
+}
+
+
+
+.line_clock{
+    display: inline-block;
+    padding-left: 550px;
+}
+
+
+.dot{
+    display: inline-block;
+    padding-left: 20px;
+}
+
+
+.line_clock1{
+    display: inline-block;
+    padding-left: 500px;
+}
+
+
+.dot1{
+    display: inline-block;
+    padding-left: 50px;
+}
+
+.line_clock2{
+    display: inline-block;
+    padding-left: 495px;
+}
+
+
+.dot2{
+    display: inline-block;
+    padding-left: 50px;
+}
+
+
+
+.line_clock3{
+    display: inline-block;
+    padding-left: 485px;
+}
+
+
+.dot3{
+    display: inline-block;
+    padding-left: 50px;
+}
+
+
+
+.line_clock4{
+    display: inline-block;
+    padding-left: 490px;
+}
+
+
+.dot4{
+    display: inline-block;
+    padding-left: 50px;
+}
+
+
+.line_clock5{
+    display: inline-block;
+    padding-left: 500px;
+}
+
+
+.dot5{
+    display: inline-block;
+    padding-left: 50px;
+}
+
+
+.line_clock6{
+    display: inline-block;
+    padding-left: 454px;
+}
+
+
+.dot6{
+    display: inline-block;
+    padding-left: 50px;
+}
+
+
+.line_clock7{
+    display: inline-block;
+    padding-left: 495px;
+}
+
+
+.dot7{
+    display: inline-block;
+    padding-left: 50px;
+}
+
+
+
+
+.div_meu1{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 940px;
+    background-color: #191a2e;
+    border: 1px solid rgb(24, 31, 55);
+    padding: 1px 40px;
+    display: inline-block;
+    vertical-align: top;
+    background:rgb;
+}
+
+
+
+.vl{
+    display: inline-block;
+    margin-left: 60px;
+    color: #695997;
+}
+
+.line_txtv{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    margin-left: 77px;
+    color: #695997;
+}
